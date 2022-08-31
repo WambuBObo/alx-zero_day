@@ -1,1 +1,1 @@
-I am learning how to code using the Source Code management tool Git
+I am currently learning how to use git commands and how to interact with the linux command line
